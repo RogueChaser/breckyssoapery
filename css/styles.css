@@ -243,9 +243,7 @@ footer p a {
 
 		#shopsoaps dt {	
 			font-weight: bold;
-			display: block;
-			color: #5A0743;
-			padding: 0.25em 0.25em;
+			text-align: center;
 			text-decoration: none;
 		}
 
